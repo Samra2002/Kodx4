@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Lobster&family=Roboto:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.heading {
+    background-color: #109E97;
+    color: #fff;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    font-size: 49px;
+    height: 100px;
+    padding-top: 10px;    
+}
+.border {
+    
+    margin-top: 100px;
+   margin-left: 250px;
+    border: 2px solid #FFD6D6;
+    width: 1103px;
+    height: 454px;
+}
+.pic1 {
+    display: inline;
+   
+    margin-right: 80px;
+}
+.about {
+    display: inline-block;
+    
+}
+.author {
+   
+
+font-family: 'Roboto' , sans-serif;
+    font-size: 23px;
+    color: #000;
+    margin-bottom: 16px;
+    width: 723px;
+}
+.price1 {
+    color: #008000;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 25px;
+}
+.price2 {
+    color:  #FF0000;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 15px;
+}
+.text {
+    width: 718px;
+    height: 266px;
+    border: 2px solid #B0E9B0;
+    margin-top: 113px;
+    color: #000;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 18px;
+}
+.title {
+    border: 1px solid #B0E9B0;
+}
+.caption {
+    font-family: 'Roboto' , sans-serif;
+    font-size: 16px;
+    color: #000;
+    text-align: center;
+    margin-top: 100px;
+}
+.row {
+    margin-right: 381px;
+}
+.caption {
+    font-family: 'Roboto' , sans-serif;
+    font-size: 16px;
+    color: #000;
+    margin-top: 21px;
+    margin-left: 8px;
+}
+thead {
+    text-align: center;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 15px;
+    color: #000;
+}
+.table {
+    width: 1500px; 
+    font-family: 'Roboto' , sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 21px 0 47px 8px;
+}
+.main {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.Pic2 {
+    display: inline-block;
+  
+}
+.Pic3 {
+    display: inline-block;
+}
+.serh {
+    font-size: 24px;
+}
+.form {
+    display: inline-block;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 20px;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 14px;  
+}
+button {
+    background-color: #109E97;
+    width: 120px;
+    height: 50px;
+    color: #FFF;
+    margin-top: 20px;
+
+}
+
+.footer {
+    color: #FFF;
+    text-align: center;
+    background-color: #109E97;
+    width: 1500px;
+    height: 80px;
+    margin-left: 8px;
+    padding-top: 34px;
+}

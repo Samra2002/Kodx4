@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Lobster&family=Roboto:wght@300&display=swap');
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+}
+.heading {
+    color: #109E97;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    font-size: 49px;
+    font-weight: 400;
+    margin: 34px auto 35px;
+}
+hr {
+    border: 1px solid #000;
+}
+.title {
+    font-family: 'Roboto' , sans-serif;
+    font-size: 23px;
+    color: #000;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.price1 {
+    color: #008000;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 25px;
+}
+.price2 {
+    color:  #FF0000;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 15px;
+}
+div.price {
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.Pic1 {
+    margin-left: 8px;
+    margin-top: 18px;
+}
+.about {
+    width: 1500px;
+    height: 200px;
+    background-color: #000;
+    margin-left: 8px;
+    margin-bottom: 8px;
+
+}
+
+.text {
+    color: #FFF;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+.caption {
+    font-family: 'Roboto' , sans-serif;
+    font-size: 16px;
+    color: #000;
+    margin-top: 21px;
+    margin-left: 8px;
+}
+thead {
+    text-align: center;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 15px;
+    color: #000;
+}
+.table {
+    width: 1500px; 
+    font-family: 'Roboto' , sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 21px 0 47px 8px;
+}
+.main {
+    text-align: center;
+}
+
+.Pic2 {
+    display: inline-block;
+  
+}
+.Pic3 {
+    display: inline-block;
+}
+.serh {
+    font-size: 24px;
+}
+.form {
+    display: inline-block;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 20px;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 14px;  
+}
+button {
+    background-color: #109E97;
+    width: 120px;
+    height: 50px;
+    color: #FFF;
+    margin-top: 20px;
+}
+.links {
+    margin: 34px 0 54px 48px;
+}
+.footer {
+    color: #FFF;
+    text-align: center;
+    background-color: #109E97;
+    width: 1500px;
+    height: 80px;
+    margin-left: 8px;
+    padding-top: 34px;
+}
